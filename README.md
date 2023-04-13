@@ -110,7 +110,7 @@ I'm very happy to discuss alternative solutions.  Also, please get in touch if t
 | [7041](questions/7041.md) | *Cloning tree nodes*              | Generics                | [96df](questions/96df.md) | [Solution](solutions/7041.md) |
 | [888a](questions/888a.md) | *Generic methods with streams*    | Generics, Functional    | [68e6](questions/68e6.md) | [Solution](solutions/888a.md) |
 | [11e2](questions/11e2.md) | *Bounded generic methods with streams* | Generics, Functional |             | [Solution](solutions/11e2.md) |
-| [c822](questions/c822.md) | *Problems cloning tree nodes*     | Advanced                | [7041](questions/7041.md) | [Solution](solutions/c822.md) |
+| [qc822](questions/c822.md) | *Problems cloning tree nodes*     | Advanced                | [7041](questions/7041.md) | [Solution](solutions/c822.md) |
 | [735a](questions/735a.md) | *Generic iterators*               | Generics                | [85bb](questions/85bb.md) [a6e7](questions/a6e7.md) [b401](questions/b401.md) | [Solution](solutions/735a.md) |
 | [876b](questions/876b.md) | *Generics and subclasses*         | Generics, Inheritance   |             | [Solution](solutions/876b.md) |
 | [1aeb](questions/1aeb.md) | *Generic number manipulation*     | Generics                |             | [Solution](solutions/1aeb.md) |
