@@ -17,7 +17,7 @@ public class Demo {
       num = input;
     } catch (IOException e) {
       throw new RuntimeException(e);
-    } catch (NumberFormatException) {
+    } catch (NumberFormatException e) {
       System.out.println("Please input an integer");
       return;
     }
